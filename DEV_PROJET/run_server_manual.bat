@@ -1,0 +1,3 @@
+@echo off
+echo Starting PHP server (Ignoring php.ini)...
+"C:\xampp\php\php.exe" -n -d extension_dir="C:\xampp\php\ext" -d extension=mysqli -d error_reporting=E_ALL -d display_errors=1 -S localhost:8000
