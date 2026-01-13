@@ -110,6 +110,6 @@ http://localhost:8000
 ---
 
 ## 👤 Auteur
--**Mohamed Lechhab**
--**Mohamed Dradi**
--**Nour-ddin Lali**
+- **Mohamed Lechhab**
+- **Mohamed Dradi**
+- **Nour-ddin Lali**
