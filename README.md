@@ -34,21 +34,22 @@ Il permet de :
 
 ## 📂 Structure du Projet
 
-`DEV_PROJET/
-├── api/ # Backend PHP (logique principale)
-│ ├── db.php # Connexion à la base de données & sessions
-│ ├── login.php # Authentification
-│ ├── query.php # Exécution des requêtes SQL
-│ ├── stats.php # Statistiques du dashboard
-│ └── tables.php # Gestion CRUD des tables
-├── css/ # Styles (Design System)
-├── js/ # Logique Frontend (app.js)
-├── dashboard.html # Dashboard & statistiques
-├── index.html # Page de connexion
-├── sql.html # Console SQL interactive
-├── tables.html # Explorateur des tables
-└── run_local_server.bat # Lancement rapide du serveur local`
-
+```text
+DEV_PROJET/
+├── api/                  # Backend PHP (logique principale)
+│   ├── db.php            # Connexion à la base de données & sessions
+│   ├── login.php         # Authentification
+│   ├── query.php         # Exécution des requêtes SQL
+│   ├── stats.php         # Statistiques du dashboard
+│   └── tables.php        # Gestion CRUD des tables
+├── css/                  # Styles (Design System)
+├── js/                   # Logique Frontend (app.js)
+├── dashboard.html        # Dashboard & statistiques
+├── index.html            # Page de connexion
+├── sql.html              # Console SQL interactive
+├── tables.html           # Explorateur des tables
+└── run_local_server.bat  # Lancement rapide du serveur local
+```
 
 ---
 
