@@ -34,7 +34,7 @@ Il permet de :
 
 ## 📂 Structure du Projet
 
-DEV_PROJET/
+```DEV_PROJET/
 ├── api/ # Backend PHP (logique principale)
 │ ├── db.php # Connexion à la base de données & sessions
 │ ├── login.php # Authentification
@@ -47,10 +47,8 @@ DEV_PROJET/
 ├── index.html # Page de connexion
 ├── sql.html # Console SQL interactive
 ├── tables.html # Explorateur des tables
-└── run_local_server.bat # Lancement rapide du serveur local
+└── run_local_server.bat # Lancement rapide du serveur local```
 
-yaml
-Copy code
 
 ---
 
