@@ -31,7 +31,6 @@ Il permet de :
 - Scripts **Batch (.bat)** et **PowerShell (.ps1)** pour lancer rapidement un serveur PHP intégré
 
 ---
-
 ## 📂 Structure du Projet
 
 ```text
@@ -50,6 +49,7 @@ DEV_PROJET/
 ├── tables.html           # Explorateur des tables
 └── run_local_server.bat  # Lancement rapide du serveur local
 ```
+
 
 ---
 
